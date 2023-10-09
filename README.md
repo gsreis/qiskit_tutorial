@@ -1,2 +1,4 @@
 # qiskit_tutorial
-Basic Samples of Qiskit usage
+Basic course of instructions used by qiskit
+Presented as material for quarta tech at IBM on Oct 11 2023
+
